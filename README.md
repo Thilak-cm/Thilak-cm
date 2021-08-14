@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there 🌊  I'm Thilak CM!
 
-<!--
-**Thilak-cm/Thilak-cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
+- Making a successful side hustle out of photography 📸 
+- Typing out all of this faster than you can read it 💨 
+###### you should try out monkeytype.com it really is amazing
 
-Here are some ideas to get you started:
+🌱 I’m currently learning 
+- building and deploying ML projects
+- german! Haben sie einen guten tag xD
+- the art of self sufficiency by cooking, getting organised using notion and a bunch of other things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: thilak.cm212@gmail.com
+
+📕 Favourite english words: 
+- pipsqueak 
+- halcyon
+- gossamer
+
+🤩 Fun fact: 
+- I love reading about, spotting types and taking pictures of clouds and skies ⛅️ 
+- I would die for songs with falsetto and piano pieces. Novo Amor and Ludovico Einaudi 🙌 ♥️ 
+- I love gymming and building that much sought after mind-muscle connection 💪 
+- Buying me a DBC from Corner House is how you inveigle me into doing anything. 
+
+🐽  When I'm not here, I' most probably:
+- Up on the terrace waiting for the perfect golden hour 
+- Reading about how I can become a sky diving instructor 
+- Playing squash, table tennis or basketball 
+###### cheering on Lando Norris and Gasley although we know that Max is going to win. 
+
+📷 Online profiles: 
+- Check out my photos available for purchase on https://printagest.com/collections/new-prints/products/heaven 
+- Unsplash profile link: https://unsplash.com/@thilak_cm212
