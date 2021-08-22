@@ -11,7 +11,7 @@
 - german! Haben sie einen guten tag 
 - the art of self sufficiency by cooking, getting organised using notion and a bunch of other things
 
-🐽  When I'm not here, I' most probably:
+🐽  When I'm not here, I'm most probably:
 - Up on the terrace waiting for the perfect golden hour 
 - Reading about how I can become a sky diving instructor 
 - Playing squash, table tennis or basketball 
