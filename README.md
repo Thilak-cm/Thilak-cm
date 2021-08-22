@@ -1,6 +1,7 @@
 # Hi there 🌊  I'm Thilak CM!
 
 🔭 I’m currently working on:
+- Machine Learning and Deep Learning projects 
 - Making a successful side hustle out of photography 📸 
 - Typing out all of this faster than you can read it 💨 
 ###### you should try out monkeytype.com it really is amazing
