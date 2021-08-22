@@ -7,8 +7,8 @@
 ###### you should try out monkeytype.com it really is amazing
 
 🌱 I’m currently learning 
-- building and deploying ML projects
-- german! Haben sie einen guten tag xD
+- building and deploying ML and DL projects
+- german! Haben sie einen guten tag 
 - the art of self sufficiency by cooking, getting organised using notion and a bunch of other things
 
 🐽  When I'm not here, I' most probably:
