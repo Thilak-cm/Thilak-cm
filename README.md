@@ -4,7 +4,6 @@
 - Machine Learning and Deep Learning projects 
 - Making a successful side hustle out of photography 📸 
 - Typing out all of this faster than you can read it 💨 
-###### you should try out monkeytype.com it really is amazing
 
 🌱 I’m currently learning 
 - building and deploying ML and DL projects
@@ -15,7 +14,6 @@
 - Up on the terrace waiting for the perfect golden hour 
 - Reading about how I can become a sky diving instructor 
 - Playing squash, table tennis or basketball 
-###### cheering on Lando Norris and Gasley although we know that Max is going to win. 
 
 📕 Favourite english words: 
 - pipsqueak 
