@@ -13,18 +13,13 @@
 🐽  When I'm not here, I'm most probably:
 - Up on the terrace waiting for the perfect golden hour 
 - Reading about how I can become a sky diving instructor 
-- Playing squash, table tennis or basketball 
+- Playing squash, table tennis or basketball
 
 📕 Favourite english words: 
 - pipsqueak 
 - halcyon
 - gossamer
 - cornucopia 
-
-🤩 Fun fact: 
-- I love reading about, spotting types and taking pictures of clouds and skies ⛅️ 
-- I would die for songs with falsetto and piano pieces. Novo Amor and Ludovico Einaudi 🙌 ♥️ 
-- Buying me a DBC from Corner House is how you inveigle me into doing anything. 
 
 📷 Online profiles: 
 - Check out my photos available for purchase on https://printagest.com/collections/new-prints/products/heaven 
