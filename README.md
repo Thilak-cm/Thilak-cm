@@ -16,7 +16,6 @@
 - Playing squash, table tennis or basketball
 
 📕 Favourite english words: 
-- pipsqueak 
 - halcyon
 - gossamer
 - cornucopia 
