@@ -1,7 +1,7 @@
 # Hi there 🌊  I'm Thilak CM!
 
 🔭 I’m currently working on:
-- Machine Learning and Deep Learning projects 
+- Machine Learning and Natural Language Processing projects 
 - Making a successful side hustle out of photography 📸 
 - Typing out all of this faster than you can read it 💨 
 
