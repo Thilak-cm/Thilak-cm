@@ -6,7 +6,7 @@
 - Typing out all of this faster than you can read it 💨 
 
 🌱 I’m currently learning 
-- building and deploying ML and DL projects
+- building and deploying ML, DL and NLP projects
 - german! Haben sie einen guten tag 
 - the art of self sufficiency by cooking, getting organised using notion and a bunch of other things
 
