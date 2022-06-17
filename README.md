@@ -7,7 +7,8 @@
 
 🌱 I’m currently learning 
 - building and deploying ML, DL and NLP projects
-- german! Haben sie einen guten tag 
+- learning advanced ML techniques
+- german! Haben sie einen guten tag
 - the art of self sufficiency by cooking, getting organised using notion and a bunch of other things
 
 🐽  When I'm not here, I'm most probably:
