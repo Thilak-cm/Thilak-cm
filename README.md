@@ -16,11 +16,5 @@
 - Reading about how I can become a sky diving instructor 
 - Playing squash, table tennis or basketball
 
-📕 Favourite english words: 
-- halcyon
-- gossamer
-- cornucopia 
-
 📷 Online profiles: 
-- Check out my photos available for purchase on https://printagest.com/collections/new-prints/products/heaven 
 - Unsplash profile link: https://unsplash.com/@thilak_cm212
