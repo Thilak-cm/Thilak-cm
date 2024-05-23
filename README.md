@@ -1,15 +1,16 @@
-# Hi there 🌊  I'm Thilak CM!
+# Hi there 🌊  I'm Thilak Mohan!
 
-📚 Currently studying at UMD in Masters of Professional Studies in Machine Learning (Expected to graduate in May '25) with a GPA of 4.0!
+📚 Currently studying at University of Maryland College Park in Masters of Science in Applied Machine Learning (Expected to graduate in May '25) with a GPA of 4.0!
 
 🔭 I’m currently working on:
-- AI projects in the climate change and healthcare fields
-- Kaggle Playground competitions to hone my ML coding skills
+- Professionally:
+  - Data Scientist at an AI stock market prediction company
+- Free time:
+  - Image Captioning using transformers and CNNs
 
 🌱 I’m currently learning 
-- NLP, CV and Introduction to Optimization -> courses for spring sem '24
-- AI for good course (Coursera series)
-- Learning parkour and free-running skills
+- MSML606 at UMD: Data Structures and Algorithms for Machine Learning
+- CMSC 818I at UMD: Multimodal foundations models (this fall)
 - Typing out all of this faster than you can read it 💨 
 
 Online profiles:
