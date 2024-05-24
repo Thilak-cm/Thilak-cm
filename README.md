@@ -14,11 +14,13 @@
   - CMSC720: foundations of deep learning by soheil feizi
   - MSML604: introduction to optimization
 
-- 📝 i am an avid photographer. check out my photos here: [https://unsplash.com/@thilak_cm212](https://unsplash.com/@thilak_cm212)
+- 📝 i am an avid photographer. check out my photos **[here](https://unsplash.com/@thilak_cm212)**
 
 - 💬 ask me about **any AI resources because i'm an information sponge, my insatiable passion for AI, and  my project ideas**
 
-- 📫 how to reach me **https://www.linkedin.com/in/thilak-mohan-687b801b2/**
+- 📫 how to reach me **[click here](https://www.linkedin.com/in/thilak-mohan-687b801b2/)**
+
+- my resume: **[click here](https://docs.google.com/document/d/e/2PACX-1vSBIrFLgclnOfJ3y1CylXXLp8db5ZiRUPyaucY5IYvQs9MALCJdGzlf6qs2jOImWMqq43BNeH3M9Sjq/pub)**
 
 - ⚡ fun fact **jon bellion is one of the best artists of our time owing to his god's gifted talent, on-point understanding of the world's cultural fabric and the role music makers play in it, his resolute love for his family and his abhorrence of companies that exploit musicians; fight me**
 
