@@ -4,10 +4,14 @@
 - 🔭 i’m currently working as a **data scientist at an AI stock trading company**
 
 - 🌱 i’m currently learning
-  - **ML for finance, multi-modal foundations models**
+  - **ML for finance**
   - **MSML606 at UMD: Data Structures and Algorithms for Machine Learning**
-  - **CMSC 818I at UMD: Multimodal foundations models (this fall)**
+  - **CMSC 818I at UMD: Multimodal foundations models (this fall) by jia bin huang**
+  - **CMSC818I: large anguage models, security, and privacy by yizheng chen**
   - **Typing out all of this faster than you can read it** 💨
+
+- some of my fav courses
+  - CMSC720: foundations of deep learning by soheil feizi
 
 - 📝 i am an avid photographer. check out my photos here: [https://unsplash.com/@thilak_cm212](https://unsplash.com/@thilak_cm212)
 
