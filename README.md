@@ -5,8 +5,8 @@
 
 - 🌱 i’m currently learning
   - **ML for finance**
-  - **MSML606 at UMD: Data Structures and Algorithms for Machine Learning**
-  - **CMSC 818I at UMD: Multimodal foundations models (this fall) by jia bin huang**
+  - **MSML606: Data Structures and Algorithms for Machine Learning**
+  - **CMSC 818I: Multimodal foundations models (this fall) by jia bin huang**
   - **CMSC818I: large anguage models, security, and privacy by yizheng chen**
   - **Typing out all of this faster than you can read it** 💨
 
