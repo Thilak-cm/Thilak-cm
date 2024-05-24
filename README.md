@@ -12,6 +12,7 @@
 
 - some of my fav courses
   - CMSC720: foundations of deep learning by soheil feizi
+  - MSML604: introduction to optimization
 
 - 📝 i am an avid photographer. check out my photos here: [https://unsplash.com/@thilak_cm212](https://unsplash.com/@thilak_cm212)
 
