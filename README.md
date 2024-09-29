@@ -11,8 +11,9 @@
   - **Typing out all of this faster than you can read it** 💨
 
 - some of my fav courses
-  - CMSC720: foundations of deep learning by soheil feizi
-  - MSML604: introduction to optimization
+  - CMSC720: foundations of deep learning by soheil feizi (UMD)
+  - CMSC 848K: Foundations of Multimodal models by Jia Bin Huang (UMD)
+  - almost all the short courses on deeplearning.ai ([click here](https://www.deeplearning.ai/courses/) to see them)
 
 - 📝 i am an avid photographer. check out my photos **[here](https://unsplash.com/@thilak_cm212)**
 
