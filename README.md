@@ -13,7 +13,7 @@
 - some of my fav courses
   - CMSC720: foundations of deep learning by soheil feizi (UMD)
   - CMSC 848K: Foundations of Multimodal models by Jia Bin Huang (UMD)
-  - almost all the short courses on deeplearning.ai ([click here](https://www.deeplearning.ai/courses/) to see them)
+  - almost all the short courses on deeplearning.ai ([here](https://www.deeplearning.ai/courses/) to see them)
 
 - 📝 i am an avid photographer. check out my photos **[here](https://unsplash.com/@thilak_cm212)**
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 here's my linkedin: **[click here](https://www.linkedin.com/in/thilak-mohan-687b801b2/)**
+- 📫 here's my linkedin: **[here](https://www.linkedin.com/in/thilak-mohan-687b801b2/)**
 
-- and here's my resume: **[click here](https://drive.google.com/file/d/1uCKoXbEEL_pXL2gIWg2kb61BGm2SWV70/view?usp=sharing)**
+- and here's my resume: **[here](https://drive.google.com/file/d/1uCKoXbEEL_pXL2gIWg2kb61BGm2SWV70/view?usp=sharing)**
 
 <p align="left">
 </p>
