@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 how to reach me **[click here](https://www.linkedin.com/in/thilak-mohan-687b801b2/)**
+- 📫 here's my linkedin: **[click here](https://www.linkedin.com/in/thilak-mohan-687b801b2/)**
 
-- my resume: **[click here](https://drive.google.com/file/d/1uCKoXbEEL_pXL2gIWg2kb61BGm2SWV70/view?usp=sharing)**
+- and here's my resume: **[click here](https://drive.google.com/file/d/1uCKoXbEEL_pXL2gIWg2kb61BGm2SWV70/view?usp=sharing)**
 
 <p align="left">
 </p>
