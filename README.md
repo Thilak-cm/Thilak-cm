@@ -1,4 +1,4 @@
-<h1 align="center">hey there 🌊, i'm thilak mohan</h1>
+<h1 align="center">hey there! i'm thilak mohan</h1>
 <h3 align="center">i'm studying masters of science in applied machine learning at university of maryland, college park. i have a 4.0 and i'm graduating may '25.</h3>
 
 - 🔭 i’m currently working as a **data scientist at an AI stock trading company**
