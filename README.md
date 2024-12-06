@@ -4,6 +4,9 @@
 - 🔭I’m currently working as a **data scientist at an AI stock trading company**
 
 - 🌱 i’m currently learning
+
+- I'm always working on
+  - **reading AI substacks and newsletters. My favs: [Andrew NG's DeepLearning.ai weekly newsletter](https://www.deeplearning.ai/the-batch/) and [Devansh's Artificial Intelligence Made Simple](https://artificialintelligencemadesimple.substack.com)**
   - **Typing out all of this faster than you can read it** 💨
 
 - some of my fav courses
