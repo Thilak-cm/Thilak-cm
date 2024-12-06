@@ -1,21 +1,17 @@
-<h1 align="center">hey there! i'm thilak mohan</h1>
-<h3 align="center">i'm studying masters of science in applied machine learning at university of maryland, college park. i have a 4.0 and i'm graduating may '25.</h3>
+<h1 align="center">Hey there! I'm thilak mohan</h1>
+<h3 align="center">I'm studying masters of science in applied machine learning at university of maryland, college park. I have a 4.0 and i'm graduating may '25.</h3>
 
-- 🔭 i’m currently working as a **data scientist at an AI stock trading company**
+- 🔭I’m currently working as a **data scientist at an AI stock trading company**
 
 - 🌱 i’m currently learning
-  - **ML for finance**
-  - **MSML606: Data Structures and Algorithms for Machine Learning**
-  - **CMSC 818I: Multimodal foundations models (this fall) by jia bin huang**
-  - **CMSC818I: large anguage models, security, and privacy by yizheng chen**
   - **Typing out all of this faster than you can read it** 💨
 
 - some of my fav courses
-  - CMSC720: foundations of deep learning by soheil feizi (UMD)
+  - CMSC720: foundations of deep learning by soheil feizI (UMD)
   - CMSC 848K: Foundations of Multimodal models by Jia Bin Huang (UMD)
-  - almost all the short courses on deeplearning.ai ([here](https://www.deeplearning.ai/courses/) to see them)
+  - almost all the short courses on deeplearning.AI ([here](https://www.deeplearning.ai/courses/) to see them)
 
-- 📝 i am an avid photographer. check out my photos **[here](https://unsplash.com/@thilak_cm212)**
+- 📝 I am an avid photographer. check out my photos **[here](https://unsplash.com/@thilak_cm212)**
 
 - 💬 ask me about **any AI resources because i'm an information sponge, my insatiable passion for AI, and  my project ideas**
 
