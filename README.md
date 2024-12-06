@@ -1,22 +1,23 @@
 <h1 align="center">Hey there! I'm thilak mohan</h1>
 <h3 align="center">I'm studying masters of science in applied machine learning at university of maryland, college park. I have a 4.0 and i'm graduating may '25.</h3>
 
-- 🔭I’m currently working as a **data scientist at an AI stock trading company**
+- 🔭I’m currently working as a **Teaching Assistant on campus**
 
-- 🌱 i’m currently learning
+- 🌱 I’m currently learning
 
 - I'm always working on
-  - **reading AI substacks and newsletters. My favs: [Andrew NG's DeepLearning.ai weekly newsletter](https://www.deeplearning.ai/the-batch/) and [Devansh's Artificial Intelligence Made Simple](https://artificialintelligencemadesimple.substack.com)**
+  - reading AI substacks and newsletters. My favs: **[Andrew NG's DeepLearning.ai weekly newsletter](https://www.deeplearning.ai/the-batch/)** and **[Devansh's Artificial Intelligence Made Simple](https://artificialintelligencemadesimple.substack.com)**
+  - Upgrading my **vinyl collection**
   - **Typing out all of this faster than you can read it** 💨
 
 - some of my fav courses
   - CMSC720: foundations of deep learning by soheil feizI (UMD)
   - CMSC 848K: Foundations of Multimodal models by Jia Bin Huang (UMD)
-  - almost all the short courses on deeplearning.AI ([here](https://www.deeplearning.ai/courses/) to see them)
+  - almost all the short courses on deeplearning.AI (Click [here](https://www.deeplearning.ai/courses/) to see them)
 
-- 📝 I am an avid photographer. check out my photos **[here](https://unsplash.com/@thilak_cm212)**
+- 📝 I am an avid photographer. check out my photos on **[My Unsplash profile](https://unsplash.com/@thilak_cm212)**
 
-- 💬 ask me about **any AI resources because i'm an information sponge, my insatiable passion for AI, and  my project ideas**
+- 💬 ask me about **any AI resources because I'm an information sponge, my insatiable passion for AI, and  my project ideas**
 
 - ⚡ fun fact **jon bellion is one of the best artists of our time owing to his god's gifted talent, on-point understanding of the world's cultural fabric and the role music makers play in it, his resolute love for his family and his abhorrence of companies that exploit musicians; fight me**
 
