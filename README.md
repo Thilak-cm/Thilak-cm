@@ -1,9 +1,5 @@
 <h1 align="center">Hey there! I'm thilak mohan</h1>
-<h3 align="center">I'm studying masters of science in applied machine learning at university of maryland, college park. I have a 4.0 and i'm graduating may '25.</h3>
-
-- 🔭I’m currently working as a **Teaching Assistant on campus**
-
-- 🌱 I’m currently learning
+<h3 align="center">I'm a recent ML grad from UMD!.</h3>
 
 - I'm always working on
   - reading AI substacks and newsletters. My favs: **[Andrew NG's DeepLearning.ai weekly newsletter](https://www.deeplearning.ai/the-batch/)** and **[Devansh's Artificial Intelligence Made Simple](https://artificialintelligencemadesimple.substack.com)**
