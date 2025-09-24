@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm thilak mohan</h1>
-<h3 align="center">I'm a recent ML grad from UMD!.</h3>
+<h3 align="center">I'm a recent ML grad from UMD !</h3>
 
 - I'm always working on
   - reading AI substacks and newsletters. My favs: **[Andrew NG's DeepLearning.ai weekly newsletter](https://www.deeplearning.ai/the-batch/)** and **[Devansh's Artificial Intelligence Made Simple](https://artificialintelligencemadesimple.substack.com)**
