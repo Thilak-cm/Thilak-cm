@@ -13,7 +13,7 @@
 ### About Me
 
 - i think i'm doing a good job at balancing these three things: staying up to date with latest AI tools, deciding which ones to explore and bake into my routine, just locking into one routine so i can get the actual work done lol
-- My fav sources of AI info: **[Andrew NG's DeepLearning.ai](https://www.deeplearning.ai/the-batch/)** and **[AI Made Simple](https://artificialintelligencemadesimple.substack.com)**
+- My fav sources of AI info: **[Andrew NG's DeepLearning.ai](https://www.deeplearning.ai/the-batch/)** and **[AI Made Simple](https://artificialintelligencemadesimple.substack.com)** i listen to these in podcast format while i cycle at least 50 miles almost every weekend
 - Completed courses like **CMSC720: Foundations of Deep Learning** and **CMSC 848K: Multimodal Models** at UMD
 - i've also done photography? lol feels like ages ago — check out my work on **[Unsplash](https://unsplash.com/@thilak_cm212)**
 - building and maintaining a SaaS in use by 4 montessori schools across 2 states in India with a 100 teachers logging 4k notes a month! sheesh i DID NOT see this coming and the learning from this has been unreal and overwhelming and i've never felt more at home learning and shipping this fast xD
